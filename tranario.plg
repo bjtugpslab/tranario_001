@@ -1,0 +1,36 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: tranario - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/tranario.res" /d "_DEBUG" /d "_AFXDLL" "D:\traffic_scenario_verification\tranario\tranario.rc"" 
+Creating temporary file "C:\Users\CHAILI~1\AppData\Local\Temp\RSPAE79.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/tranario.pdb" /debug /machine:I386 /out:"Debug/tranario.exe" /pdbtype:sept 
+.\Debug\tranario.obj
+.\Debug\StdAfx.obj
+.\Debug\MainFrm.obj
+.\Debug\tranarioDoc.obj
+.\Debug\tranarioView.obj
+.\Debug\tranario.res
+.\Debug\CoolTabCtrl.obj
+.\Debug\Control.obj
+.\Debug\Network.obj
+.\Debug\Statistics.obj
+.\Debug\Verification.obj
+]
+Creating command line "link.exe @C:\Users\CHAILI~1\AppData\Local\Temp\RSPAE79.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Linking...
+
+
+
+<h3>Results</h3>
+tranario.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
